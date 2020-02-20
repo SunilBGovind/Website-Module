@@ -1,0 +1,313 @@
+2019-09-20 19:07:32,379 INFO getting app erpnext
+2019-09-20 19:07:32,423 INFO git clone https://gitlab.com/kaynes-technology/erpnext.git  --depth 1 --origin upstream
+2019-09-20 19:08:00,074 INFO installing erpnext
+2019-09-20 19:08:00,074 INFO ./env/bin/pip install -q  -e ./apps/erpnext 
+2019-09-20 19:08:13,489 INFO bench build --app erpnext
+2019-09-21 10:09:50,726 INFO getting app negentropy
+2019-09-21 10:09:50,741 INFO git clone https://gitlab.com/kaynes-technology/negentropy.git  --depth 1 --origin upstream
+2019-09-21 10:10:07,210 INFO installing negentropy
+2019-09-21 10:10:07,210 INFO ./env/bin/pip install -q  -e ./apps/negentropy 
+2019-09-21 10:10:11,043 INFO bench build --app negentropy
+2019-09-21 10:24:30,294 INFO getting app negentropy
+2019-09-21 10:24:30,297 INFO git clone https://gitlab.com/kaynes-technology/negentropy.git --branch crm-5-mf-ra --depth 1 --origin upstream
+2019-09-21 10:25:01,882 INFO getting app negentropy
+2019-09-21 10:25:01,885 INFO git clone https://gitlab.com/kaynes-technology/negentropy.git --branch crm-5-mf-ra --depth 1 --origin upstream
+2019-09-21 10:25:18,076 INFO installing negentropy
+2019-09-21 10:25:18,077 INFO ./env/bin/pip install -q  -e ./apps/negentropy 
+2019-09-21 10:40:42,994 INFO getting app negentropy
+2019-09-21 10:40:42,997 INFO git clone https://gitlab.com/kaynes-technology/negentropy.git --branch crm-5-mf-ra --depth 1 --origin upstream
+2019-09-21 10:40:58,781 INFO installing negentropy
+2019-09-21 10:40:58,781 INFO ./env/bin/pip install -q  -e ./apps/negentropy 
+2019-09-22 23:25:01,363 INFO updating bench
+2019-09-22 23:25:01,409 INFO git pull
+2019-09-22 23:25:22,542 INFO ./env/bin/pip install Pillow
+2019-09-22 23:26:44,693 INFO updating bench
+2019-09-22 23:26:44,693 INFO git pull
+2019-09-22 23:27:01,504 INFO ./env/bin/pip install Pillow
+2019-09-22 23:27:03,834 INFO pulling frappe
+2019-09-22 23:27:03,837 INFO git pull  upstream develop
+2019-09-22 23:27:10,625 INFO find . -name "*.pyc" -delete
+2019-09-22 23:27:10,925 INFO pulling erpnext
+2019-09-22 23:27:10,928 INFO git pull  upstream develop
+2019-09-22 23:27:30,071 INFO find . -name "*.pyc" -delete
+2019-09-22 23:27:30,196 INFO pulling negentropy
+2019-09-22 23:27:30,199 INFO git pull  upstream crm-5-mf-ra
+2019-09-22 23:27:51,702 INFO find . -name "*.pyc" -delete
+2019-09-22 23:27:51,706 INFO ./env/bin/pip install --upgrade pip
+2019-09-22 23:27:53,422 INFO ./env/bin/pip install -q -r /home/frappe/.bench/requirements.txt
+2019-09-22 23:27:56,999 INFO installing frappe
+2019-09-22 23:27:57,000 INFO ./env/bin/pip install -q  -e ./apps/frappe 
+2019-09-22 23:27:59,732 INFO installing erpnext
+2019-09-22 23:27:59,732 INFO ./env/bin/pip install -q  -e ./apps/erpnext 
+2019-09-22 23:28:01,697 INFO installing negentropy
+2019-09-22 23:28:01,698 INFO ./env/bin/pip install -q  -e ./apps/negentropy 
+2019-09-22 23:28:03,284 INFO yarn install
+2019-09-22 23:28:11,682 INFO yarn install
+2019-09-22 23:28:36,996 INFO bench build
+2019-09-23 12:25:21,945 INFO updating bench
+2019-09-23 12:25:21,955 INFO git pull
+2019-09-23 12:25:34,050 INFO ./env/bin/pip install Pillow
+2019-09-23 12:36:48,985 INFO updating bench
+2019-09-23 12:36:48,986 INFO git pull
+2019-09-23 12:36:59,904 INFO ./env/bin/pip install Pillow
+2019-09-23 12:37:02,232 INFO pulling frappe
+2019-09-23 12:37:02,236 INFO git pull  upstream develop
+2019-09-23 12:37:06,670 INFO find . -name "*.pyc" -delete
+2019-09-23 12:37:14,158 INFO pulling erpnext
+2019-09-23 12:37:14,163 INFO git pull  upstream develop
+2019-09-23 12:37:44,789 INFO find . -name "*.pyc" -delete
+2019-09-23 12:37:44,986 INFO pulling negentropy
+2019-09-23 12:37:44,989 INFO git pull  upstream crm-5-mf-ra
+2019-09-23 12:37:56,393 INFO find . -name "*.pyc" -delete
+2019-09-23 12:37:56,400 INFO ./env/bin/pip install --upgrade pip
+2019-09-23 12:37:57,881 INFO ./env/bin/pip install -q -r /home/frappe/.bench/requirements.txt
+2019-09-23 12:37:58,726 INFO installing frappe
+2019-09-23 12:37:58,726 INFO ./env/bin/pip install -q  -e ./apps/frappe 
+2019-09-23 12:38:01,373 INFO installing erpnext
+2019-09-23 12:38:01,373 INFO ./env/bin/pip install -q  -e ./apps/erpnext 
+2019-09-23 12:38:03,405 INFO installing negentropy
+2019-09-23 12:38:03,405 INFO ./env/bin/pip install -q  -e ./apps/negentropy 
+2019-09-23 12:38:05,036 INFO yarn install
+2019-09-23 12:38:17,253 INFO yarn install
+2019-09-23 12:38:38,649 INFO bench build
+2019-09-23 12:54:04,410 INFO updating bench
+2019-09-23 12:54:04,410 INFO git pull
+2019-09-23 12:54:15,912 INFO ./env/bin/pip install Pillow
+2019-09-23 12:54:56,994 INFO updating bench
+2019-09-23 12:54:56,994 INFO git pull
+2019-09-23 12:55:07,932 INFO ./env/bin/pip install Pillow
+2019-09-23 12:55:10,330 INFO pulling frappe
+2019-09-23 12:55:10,333 INFO git pull  upstream develop
+2019-09-23 12:55:14,816 INFO find . -name "*.pyc" -delete
+2019-09-23 12:55:14,979 INFO pulling erpnext
+2019-09-23 12:55:14,981 INFO git pull  upstream develop
+2019-09-23 12:55:27,399 INFO find . -name "*.pyc" -delete
+2019-09-23 12:55:27,488 INFO pulling negentropy
+2019-09-23 12:55:27,490 INFO git pull  upstream crm-5-mf-ra
+2019-09-23 12:55:39,785 INFO find . -name "*.pyc" -delete
+2019-09-23 12:55:39,797 INFO ./env/bin/pip install --upgrade pip
+2019-09-23 12:55:46,038 INFO ./env/bin/pip install -q -r /home/frappe/.bench/requirements.txt
+2019-09-23 12:55:46,831 INFO installing frappe
+2019-09-23 12:55:46,832 INFO ./env/bin/pip install -q  -e ./apps/frappe 
+2019-09-23 12:55:48,682 INFO installing erpnext
+2019-09-23 12:55:48,682 INFO ./env/bin/pip install -q  -e ./apps/erpnext 
+2019-09-23 12:55:50,701 INFO installing negentropy
+2019-09-23 12:55:50,701 INFO ./env/bin/pip install -q  -e ./apps/negentropy 
+2019-09-23 12:55:52,240 INFO yarn install
+2019-09-23 12:55:56,170 INFO yarn install
+2019-09-23 12:56:20,340 INFO bench build
+2019-09-23 13:04:49,975 INFO updating bench
+2019-09-23 13:04:49,975 INFO git pull
+2019-09-23 13:05:01,425 INFO ./env/bin/pip install Pillow
+2019-09-23 13:05:04,064 INFO pulling frappe
+2019-09-23 13:05:04,067 INFO git pull  upstream develop
+2019-09-23 13:05:08,428 INFO find . -name "*.pyc" -delete
+2019-09-23 13:05:08,576 INFO pulling erpnext
+2019-09-23 13:05:08,579 INFO git pull  upstream develop
+2019-09-23 13:05:20,494 INFO find . -name "*.pyc" -delete
+2019-09-23 13:05:20,589 INFO pulling negentropy
+2019-09-23 13:05:20,592 INFO git pull  upstream crm-5-mf-ra
+2019-09-23 13:05:31,810 INFO find . -name "*.pyc" -delete
+2019-09-23 13:05:31,818 INFO ./env/bin/pip install --upgrade pip
+2019-09-23 13:05:33,062 INFO ./env/bin/pip install -q -r /home/frappe/.bench/requirements.txt
+2019-09-23 13:05:33,892 INFO installing frappe
+2019-09-23 13:05:33,892 INFO ./env/bin/pip install -q  -e ./apps/frappe 
+2019-09-23 13:05:35,774 INFO installing erpnext
+2019-09-23 13:05:35,775 INFO ./env/bin/pip install -q  -e ./apps/erpnext 
+2019-09-23 13:05:37,776 INFO installing negentropy
+2019-09-23 13:05:37,776 INFO ./env/bin/pip install -q  -e ./apps/negentropy 
+2019-09-23 13:05:39,326 INFO yarn install
+2019-09-23 13:05:42,572 INFO yarn install
+2019-09-23 13:05:57,266 INFO bench build
+2019-09-23 13:06:47,403 INFO updating bench
+2019-09-23 13:06:47,416 INFO git pull
+2019-09-23 13:06:58,527 INFO ./env/bin/pip install Pillow
+2019-09-23 13:07:26,648 INFO updating bench
+2019-09-23 13:07:26,648 INFO git pull
+2019-09-23 13:07:37,429 INFO ./env/bin/pip install Pillow
+2019-09-23 13:07:39,768 INFO pulling frappe
+2019-09-23 13:07:39,771 INFO git pull  upstream develop
+2019-09-23 13:07:44,119 INFO find . -name "*.pyc" -delete
+2019-09-23 13:07:46,307 INFO pulling erpnext
+2019-09-23 13:07:46,315 INFO git pull  upstream develop
+2019-09-23 13:08:04,229 INFO find . -name "*.pyc" -delete
+2019-09-23 13:08:04,621 INFO pulling negentropy
+2019-09-23 13:08:04,623 INFO git pull  upstream crm-5-mf-ra
+2019-09-23 13:08:15,379 INFO find . -name "*.pyc" -delete
+2019-09-23 13:08:15,385 INFO ./env/bin/pip install --upgrade pip
+2019-09-23 13:08:21,523 INFO ./env/bin/pip install -q -r /home/frappe/.bench/requirements.txt
+2019-09-23 13:08:22,287 INFO installing frappe
+2019-09-23 13:08:22,288 INFO ./env/bin/pip install -q  -e ./apps/frappe 
+2019-09-23 13:08:24,134 INFO installing erpnext
+2019-09-23 13:08:24,135 INFO ./env/bin/pip install -q  -e ./apps/erpnext 
+2019-09-23 13:08:26,138 INFO installing negentropy
+2019-09-23 13:08:26,138 INFO ./env/bin/pip install -q  -e ./apps/negentropy 
+2019-09-23 13:08:27,641 INFO yarn install
+2019-09-23 13:08:30,006 INFO yarn install
+2019-09-23 13:08:46,978 INFO bench build
+2019-09-24 14:07:38,475 INFO updating bench
+2019-09-24 14:07:38,484 INFO git pull
+2019-09-24 14:07:57,159 INFO ./env/bin/pip install Pillow
+2019-09-24 14:09:09,664 INFO updating bench
+2019-09-24 14:09:09,664 INFO git pull
+2019-09-24 14:09:21,719 INFO ./env/bin/pip install Pillow
+2019-09-24 14:09:24,110 INFO pulling frappe
+2019-09-24 14:09:24,113 INFO git pull  upstream develop
+2019-09-24 14:09:28,436 INFO find . -name "*.pyc" -delete
+2019-09-24 14:09:28,943 INFO pulling erpnext
+2019-09-24 14:09:28,946 INFO git pull  upstream develop
+2019-09-24 14:09:42,588 INFO find . -name "*.pyc" -delete
+2019-09-24 14:09:42,699 INFO pulling negentropy
+2019-09-24 14:09:42,702 INFO git pull  upstream crm-5-mf-ra
+2019-09-24 14:09:54,538 INFO find . -name "*.pyc" -delete
+2019-09-24 14:09:54,555 INFO ./env/bin/pip install --upgrade pip
+2019-09-24 14:09:56,902 INFO ./env/bin/pip install -q -r /home/frappe/.bench/requirements.txt
+2019-09-24 14:09:58,078 INFO installing frappe
+2019-09-24 14:09:58,078 INFO ./env/bin/pip install -q  -e ./apps/frappe 
+2019-09-24 14:10:00,759 INFO installing erpnext
+2019-09-24 14:10:00,759 INFO ./env/bin/pip install -q  -e ./apps/erpnext 
+2019-09-24 14:10:02,868 INFO installing negentropy
+2019-09-24 14:10:02,868 INFO ./env/bin/pip install -q  -e ./apps/negentropy 
+2019-09-24 14:10:04,548 INFO yarn install
+2019-09-24 14:10:13,394 INFO yarn install
+2019-09-24 14:10:47,762 INFO bench build
+2019-09-27 00:13:01,474 INFO updating bench
+2019-09-27 00:13:01,481 INFO git pull
+2019-09-27 00:13:19,185 INFO ./env/bin/pip install Pillow
+2019-09-27 00:14:09,735 INFO updating bench
+2019-09-27 00:14:09,736 INFO git pull
+2019-09-27 00:14:24,577 INFO ./env/bin/pip install Pillow
+2019-09-27 00:14:26,928 INFO pulling frappe
+2019-09-27 00:14:26,931 INFO git pull  upstream develop
+2019-09-27 00:14:32,893 INFO find . -name "*.pyc" -delete
+2019-09-27 00:14:33,450 INFO pulling erpnext
+2019-09-27 00:14:33,453 INFO git pull  upstream develop
+2019-09-27 00:14:53,246 INFO find . -name "*.pyc" -delete
+2019-09-27 00:14:53,323 INFO pulling negentropy
+2019-09-27 00:14:53,326 INFO git pull  upstream crm-5-mf-ra
+2019-09-27 00:15:09,468 INFO find . -name "*.pyc" -delete
+2019-09-27 00:15:09,473 INFO ./env/bin/pip install --upgrade pip
+2019-09-27 00:15:11,297 INFO ./env/bin/pip install -q -r /home/frappe/.bench/requirements.txt
+2019-09-27 00:15:12,086 INFO installing frappe
+2019-09-27 00:15:12,086 INFO ./env/bin/pip install -q  -e ./apps/frappe 
+2019-09-27 00:15:14,791 INFO installing erpnext
+2019-09-27 00:15:14,791 INFO ./env/bin/pip install -q  -e ./apps/erpnext 
+2019-09-27 00:15:16,855 INFO installing negentropy
+2019-09-27 00:15:16,855 INFO ./env/bin/pip install -q  -e ./apps/negentropy 
+2019-09-27 00:15:18,468 INFO yarn install
+2019-09-27 00:15:27,067 INFO yarn install
+2019-09-27 00:16:21,152 INFO updating bench
+2019-09-27 00:16:21,152 INFO git pull
+2019-09-27 00:16:35,798 INFO ./env/bin/pip install Pillow
+2019-09-27 00:17:10,966 INFO updating bench
+2019-09-27 00:17:10,966 INFO git pull
+2019-09-27 00:17:25,052 INFO ./env/bin/pip install Pillow
+2019-09-27 00:17:27,383 INFO pulling frappe
+2019-09-27 00:17:27,385 INFO git pull  upstream develop
+2019-09-27 00:17:33,372 INFO find . -name "*.pyc" -delete
+2019-09-27 00:17:33,460 INFO pulling erpnext
+2019-09-27 00:17:33,463 INFO git pull  upstream develop
+2019-09-27 00:18:17,573 INFO find . -name "*.pyc" -delete
+2019-09-27 00:18:17,632 INFO pulling negentropy
+2019-09-27 00:18:17,635 INFO git pull  upstream crm-5-mf-ra
+2019-09-27 00:18:31,370 INFO find . -name "*.pyc" -delete
+2019-09-27 00:18:31,386 INFO ./env/bin/pip install --upgrade pip
+2019-09-27 00:18:32,687 INFO ./env/bin/pip install -q -r /home/frappe/.bench/requirements.txt
+2019-09-27 00:18:33,450 INFO installing frappe
+2019-09-27 00:18:33,450 INFO ./env/bin/pip install -q  -e ./apps/frappe 
+2019-09-27 00:18:35,258 INFO installing erpnext
+2019-09-27 00:18:35,258 INFO ./env/bin/pip install -q  -e ./apps/erpnext 
+2019-09-27 00:18:37,240 INFO installing negentropy
+2019-09-27 00:18:37,240 INFO ./env/bin/pip install -q  -e ./apps/negentropy 
+2019-09-27 00:18:38,740 INFO yarn install
+2019-09-27 00:18:41,175 INFO yarn install
+2019-09-27 00:19:00,478 INFO bench build
+2019-10-11 09:58:24,257 INFO updating bench
+2019-10-11 09:58:24,266 INFO git pull
+2019-10-11 09:58:38,129 INFO ./env/bin/pip install Pillow
+2019-10-11 10:00:41,982 INFO updating bench
+2019-10-11 10:00:41,982 INFO git pull
+2019-10-11 10:00:58,316 INFO ./env/bin/pip install Pillow
+2019-10-11 10:01:00,681 INFO pulling frappe
+2019-10-11 10:01:00,684 INFO git pull  upstream develop
+2019-10-11 10:01:05,401 INFO find . -name "*.pyc" -delete
+2019-10-11 10:01:08,691 INFO pulling erpnext
+2019-10-11 10:01:08,697 INFO git pull  upstream develop
+2019-10-11 10:10:08,195 INFO find . -name "*.pyc" -delete
+2019-10-11 10:10:08,830 INFO pulling negentropy
+2019-10-11 10:10:08,833 INFO git pull  upstream crm-5-mf-ra
+2019-10-11 10:10:21,229 INFO find . -name "*.pyc" -delete
+2019-10-11 10:10:21,342 INFO ./env/bin/pip install --upgrade pip
+2019-10-11 10:10:22,481 INFO ./env/bin/pip install -q -r /home/frappe/.bench/requirements.txt
+2019-10-11 10:10:23,318 INFO installing frappe
+2019-10-11 10:10:23,318 INFO ./env/bin/pip install -q  -e ./apps/frappe 
+2019-10-11 10:10:28,477 INFO installing erpnext
+2019-10-11 10:10:28,477 INFO ./env/bin/pip install -q  -e ./apps/erpnext 
+2019-10-11 10:10:30,554 INFO installing negentropy
+2019-10-11 10:10:30,554 INFO ./env/bin/pip install -q  -e ./apps/negentropy 
+2019-10-11 10:10:32,224 INFO yarn install
+2019-10-11 10:10:42,025 INFO yarn install
+2019-10-11 10:11:27,811 INFO updating bench
+2019-10-11 10:11:27,811 INFO git pull
+2019-10-11 10:11:39,094 INFO ./env/bin/pip install Pillow
+2019-10-11 10:12:10,254 INFO updating bench
+2019-10-11 10:12:10,255 INFO git pull
+2019-10-11 10:12:21,266 INFO ./env/bin/pip install Pillow
+2019-10-11 10:12:23,674 INFO pulling frappe
+2019-10-11 10:12:23,677 INFO git pull  upstream develop
+2019-10-11 10:12:28,100 INFO find . -name "*.pyc" -delete
+2019-10-11 10:12:28,193 INFO pulling erpnext
+2019-10-11 10:12:28,196 INFO git pull  upstream develop
+2019-10-11 10:12:40,923 INFO find . -name "*.pyc" -delete
+2019-10-11 10:12:40,988 INFO pulling negentropy
+2019-10-11 10:12:40,991 INFO git pull  upstream crm-5-mf-ra
+2019-10-11 10:12:51,671 INFO find . -name "*.pyc" -delete
+2019-10-11 10:12:51,678 INFO ./env/bin/pip install --upgrade pip
+2019-10-11 10:12:52,769 INFO ./env/bin/pip install -q -r /home/frappe/.bench/requirements.txt
+2019-10-11 10:12:53,527 INFO installing frappe
+2019-10-11 10:12:53,528 INFO ./env/bin/pip install -q  -e ./apps/frappe 
+2019-10-11 10:12:55,323 INFO installing erpnext
+2019-10-11 10:12:55,323 INFO ./env/bin/pip install -q  -e ./apps/erpnext 
+2019-10-11 10:12:57,301 INFO installing negentropy
+2019-10-11 10:12:57,302 INFO ./env/bin/pip install -q  -e ./apps/negentropy 
+2019-10-11 10:12:58,798 INFO yarn install
+2019-10-11 10:13:01,131 INFO yarn install
+2019-10-11 10:13:18,173 INFO bench build
+2019-11-30 11:11:15,838 INFO updating bench
+2019-11-30 11:11:15,860 INFO git pull
+2019-11-30 11:11:37,085 INFO ./env/bin/pip install Pillow
+2019-11-30 11:12:32,817 INFO updating bench
+2019-11-30 11:12:32,817 INFO git pull
+2019-11-30 11:12:49,993 INFO ./env/bin/pip install Pillow
+2019-11-30 11:15:34,175 INFO updating bench
+2019-11-30 11:15:34,175 INFO git pull
+2019-11-30 11:15:50,415 INFO ./env/bin/pip install Pillow
+2019-11-30 11:15:52,790 INFO pulling frappe
+2019-11-30 11:15:52,793 INFO git pull  upstream develop
+2019-11-30 11:16:00,054 INFO find . -name "*.pyc" -delete
+2019-11-30 11:16:00,649 INFO pulling erpnext
+2019-11-30 11:16:00,654 INFO git pull  upstream develop
+2019-11-30 11:16:16,770 INFO find . -name "*.pyc" -delete
+2019-11-30 11:16:16,864 INFO pulling negentropy
+2019-11-30 11:16:16,867 INFO git pull  upstream crm-5-mf-ra
+2019-11-30 11:16:33,368 INFO find . -name "*.pyc" -delete
+2019-11-30 11:16:33,376 INFO ./env/bin/pip install -q -U pip
+2019-11-30 11:16:36,296 INFO /usr/local/bin/pip install --user -q -U -r /home/frappe/.bench/requirements.txt
+2019-11-30 11:16:46,735 INFO installing frappe
+2019-11-30 11:16:46,735 INFO ./env/bin/pip install -q -U -e ./apps/frappe 
+2019-11-30 11:16:50,443 INFO installing erpnext
+2019-11-30 11:16:50,444 INFO ./env/bin/pip install -q -U -e ./apps/erpnext 
+2019-11-30 11:16:52,495 INFO installing negentropy
+2019-11-30 11:16:52,495 INFO ./env/bin/pip install -q -U -e ./apps/negentropy 
+2019-11-30 11:16:54,053 INFO yarn install
+2019-11-30 11:17:02,758 INFO yarn install
+2019-11-30 11:17:24,362 INFO bench build
+2019-12-27 16:34:44,163 INFO creating new app kaynes_website
+2019-12-27 16:37:13,323 INFO installing kaynes_website
+2019-12-27 16:37:13,323 INFO ./env/bin/pip install -q -U -e ./apps/kaynes_website 
+2019-12-30 14:44:46,412 INFO creating new app raghu_tasks
+2019-12-30 14:45:34,331 INFO installing raghu_tasks
+2019-12-30 14:45:34,331 INFO ./env/bin/pip install -q -U -e ./apps/raghu_tasks 
+2019-12-30 16:05:24,546 INFO creating new app testing
+2019-12-30 16:05:48,563 INFO installing testing
+2019-12-30 16:05:48,564 INFO ./env/bin/pip install -q -U -e ./apps/testing 

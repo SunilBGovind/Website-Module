@@ -1,0 +1,805 @@
+[ERROR] 2019-12-30 16:11:34,123 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "frappe.realtime.get_user_info"
+}
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "frappe.realtime.get_user_info"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+TypeError: get_user_info() missing 1 required positional argument: 'sid'
+[ERROR] 2019-12-30 16:11:34,123 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "frappe.realtime.get_user_info"
+}
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "frappe.realtime.get_user_info"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+TypeError: get_user_info() missing 1 required positional argument: 'sid'
+[ERROR] 2019-12-30 16:11:34,290 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+TypeError: get_user_info() missing 1 required positional argument: 'sid'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[ERROR] 2019-12-30 16:11:34,290 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+TypeError: get_user_info() missing 1 required positional argument: 'sid'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[ERROR] 2019-12-30 16:11:34,291 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+TypeError: get_user_info() missing 1 required positional argument: 'sid'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[ERROR] 2019-12-30 16:11:34,291 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+TypeError: get_user_info() missing 1 required positional argument: 'sid'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[DEBUG] 2019-12-30 16:12:33,553 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:13:33,786 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:14:34,086 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:15:34,291 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:16:34,548 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[ERROR] 2019-12-30 16:16:42,064 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "testing.testing.doctype.contract_review.fetch_repeat_order_questions"
+}
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "testing.testing.doctype.contract_review.fetch_repeat_order_questions"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+AttributeError: module 'testing.testing.doctype.contract_review' has no attribute 'fetch_repeat_order_questions'
+[ERROR] 2019-12-30 16:16:42,066 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+AttributeError: module 'testing.testing.doctype.contract_review' has no attribute 'fetch_repeat_order_questions'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[ERROR] 2019-12-30 16:16:42,066 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+AttributeError: module 'testing.testing.doctype.contract_review' has no attribute 'fetch_repeat_order_questions'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[ERROR] 2019-12-30 16:16:57,427 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "testing.testing.doctype.contract_review.fetch_repeat_order_questions"
+}
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "testing.testing.doctype.contract_review.fetch_repeat_order_questions"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+AttributeError: module 'testing.testing.doctype.contract_review' has no attribute 'fetch_repeat_order_questions'
+[ERROR] 2019-12-30 16:16:57,429 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+AttributeError: module 'testing.testing.doctype.contract_review' has no attribute 'fetch_repeat_order_questions'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[ERROR] 2019-12-30 16:16:57,429 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+AttributeError: module 'testing.testing.doctype.contract_review' has no attribute 'fetch_repeat_order_questions'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[DEBUG] 2019-12-30 16:17:34,856 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:18:35,074 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:19:35,286 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[ERROR] 2019-12-30 16:19:37,989 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "testing.testing.doctype.contract_review.fetch_repeat_order_questions"
+}
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "testing.testing.doctype.contract_review.fetch_repeat_order_questions"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+AttributeError: module 'testing.testing.doctype.contract_review' has no attribute 'fetch_repeat_order_questions'
+[ERROR] 2019-12-30 16:19:37,991 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+AttributeError: module 'testing.testing.doctype.contract_review' has no attribute 'fetch_repeat_order_questions'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[ERROR] 2019-12-30 16:19:37,991 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+AttributeError: module 'testing.testing.doctype.contract_review' has no attribute 'fetch_repeat_order_questions'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[ERROR] 2019-12-30 16:20:34,562 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "frappe.desk.reportview.get"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 511, in wrapper_fn
+    retval = fn(*args, **get_newargs(fn, kwargs))
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/desk/reportview.py", line 18, in get
+    args = get_form_params()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/desk/reportview.py", line 48, in get_form_params
+    fields = data["fields"]
+KeyError: 'fields'
+[ERROR] 2019-12-30 16:20:34,638 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 511, in wrapper_fn
+    retval = fn(*args, **get_newargs(fn, kwargs))
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/desk/reportview.py", line 18, in get
+    args = get_form_params()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/desk/reportview.py", line 48, in get_form_params
+    fields = data["fields"]
+KeyError: 'fields'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[DEBUG] 2019-12-30 16:21:01,852 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:22:02,119 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[ERROR] 2019-12-30 16:22:05,424 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "testing.testing.doctype.contract_review.fetch_repeat_order_questions"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+AttributeError: module 'testing.testing.doctype.contract_review' has no attribute 'fetch_repeat_order_questions'
+[ERROR] 2019-12-30 16:22:05,426 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+AttributeError: module 'testing.testing.doctype.contract_review' has no attribute 'fetch_repeat_order_questions'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[DEBUG] 2019-12-30 16:23:02,312 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:24:02,576 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:25:02,829 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:26:09,793 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:27:10,054 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:28:10,337 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:29:10,582 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:30:10,889 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:31:11,126 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:32:11,395 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:33:11,652 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:34:11,985 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:35:12,240 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:36:12,543 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:37:12,791 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:38:13,265 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:39:13,731 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:40:14,237 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:41:14,714 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:42:15,179 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:43:15,398 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:44:15,657 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:45:15,977 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:46:16,212 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:47:16,395 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:48:16,639 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:49:16,851 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:50:17,155 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:51:17,387 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:52:17,709 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:53:17,894 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:54:18,244 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:55:18,477 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[ERROR] 2019-12-30 16:56:08,546 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "testing.testing.doctype.joint_review_of_quality_system.joint_review_of_quality_system.fetch_jrqs_questions"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/test-frappe-bench/apps/testing/testing/testing/doctype/joint_review_of_quality_system/joint_review_of_quality_system.py", line 15, in fetch_jrqs_questions
+    return frappe.db.sql("""select data_1,customer_need_identification from `tabJRQS Questions List` order by idx""", as_dict=1)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/database/database.py", line 171, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table '_726d1a81b64e12ab.tabJRQS Questions List' doesn't exist")
+[ERROR] 2019-12-30 16:56:08,615 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/test-frappe-bench/apps/testing/testing/testing/doctype/joint_review_of_quality_system/joint_review_of_quality_system.py", line 15, in fetch_jrqs_questions
+    return frappe.db.sql("""select data_1,customer_need_identification from `tabJRQS Questions List` order by idx""", as_dict=1)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/database/database.py", line 171, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table '_726d1a81b64e12ab.tabJRQS Questions List' doesn't exist")
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[DEBUG] 2019-12-30 16:56:18,739 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:57:19,014 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:58:19,264 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 16:59:19,492 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:00:19,862 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:01:20,075 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:02:20,336 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:03:20,541 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:04:20,797 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:05:21,049 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:06:21,265 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:07:21,564 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:08:21,789 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:09:22,105 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:10:22,371 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:11:22,592 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:12:22,865 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:13:23,107 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:14:23,367 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:15:23,598 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:16:23,859 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:17:24,105 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:18:24,343 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:19:24,660 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:20:24,954 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:21:25,223 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:22:25,460 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:23:25,702 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:24:26,073 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:25:26,331 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:26:26,531 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:27:27,042 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:28:27,284 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:29:27,484 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:30:27,788 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:31:28,006 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:32:28,254 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:33:28,462 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 17:34:28,911 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local

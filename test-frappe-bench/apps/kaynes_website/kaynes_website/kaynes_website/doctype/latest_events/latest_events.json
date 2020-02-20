@@ -1,0 +1,35 @@
+{
+ "creation": "2019-10-30 18:36:29.014660",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "heading",
+  "url"
+ ],
+ "fields": [
+  {
+   "fieldname": "heading",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Heading"
+  },
+  {
+   "fieldname": "url",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "URL"
+  }
+ ],
+ "istable": 1,
+ "modified": "2019-10-30 18:40:51.861094",
+ "modified_by": "Administrator",
+ "module": "Kaynes Website",
+ "name": "Latest Events",
+ "owner": "Administrator",
+ "permissions": [],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

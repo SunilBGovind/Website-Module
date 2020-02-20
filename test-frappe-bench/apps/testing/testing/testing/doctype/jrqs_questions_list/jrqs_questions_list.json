@@ -1,0 +1,43 @@
+{
+ "creation": "2019-12-30 16:58:19.293213",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "data_1",
+  "customer_need_identification",
+  "amended_from"
+ ],
+ "fields": [
+  {
+   "fieldname": "data_1",
+   "fieldtype": "Data"
+  },
+  {
+   "fieldname": "customer_need_identification",
+   "fieldtype": "Small Text",
+   "in_list_view": 1,
+   "label": "Customer Need Identification"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "JRQS Questions List",
+   "print_hide": 1,
+   "read_only": 1
+  }
+ ],
+ "istable": 1,
+ "modified": "2019-12-30 17:06:17.179552",
+ "modified_by": "Administrator",
+ "module": "testing",
+ "name": "JRQS Questions List",
+ "owner": "Administrator",
+ "permissions": [],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

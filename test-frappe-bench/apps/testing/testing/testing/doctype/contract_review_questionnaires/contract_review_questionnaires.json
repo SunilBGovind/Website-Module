@@ -1,0 +1,50 @@
+{
+ "creation": "2019-11-26 14:41:23.219656",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "data_1",
+  "check_point",
+  "yes_or_no",
+  "comments_or_action_plans_to_be_updated"
+ ],
+ "fields": [
+  {
+   "fieldname": "data_1",
+   "fieldtype": "Data",
+   "in_list_view": 1
+  },
+  {
+   "fieldname": "check_point",
+   "fieldtype": "Small Text",
+   "in_list_view": 1,
+   "label": "Check Point"
+  },
+  {
+   "default": "0",
+   "fieldname": "yes_or_no",
+   "fieldtype": "Check",
+   "in_list_view": 1,
+   "label": "Yes/No"
+  },
+  {
+   "fieldname": "comments_or_action_plans_to_be_updated",
+   "fieldtype": "Small Text",
+   "in_list_view": 1,
+   "label": "Comments / Action plans to be updated",
+   "reqd": 1
+  }
+ ],
+ "istable": 1,
+ "modified": "2019-12-30 15:07:27.796191",
+ "modified_by": "Administrator",
+ "module": "testing",
+ "name": "Contract Review Questionnaires",
+ "owner": "Administrator",
+ "permissions": [],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

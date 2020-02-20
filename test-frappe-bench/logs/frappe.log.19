@@ -1,0 +1,1758 @@
+[DEBUG] 2019-12-28 13:58:34,387 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 13:59:34,622 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:00:34,942 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:01:35,155 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:02:35,389 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:03:35,614 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:04:35,850 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:05:36,094 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:06:36,416 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:07:36,644 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:08:36,884 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:09:37,194 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:10:37,426 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:11:37,662 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:12:38,001 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:13:38,226 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:14:38,428 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:15:38,658 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:16:38,877 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:17:39,145 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:18:39,480 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:19:39,687 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:20:39,906 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:21:40,167 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:22:40,420 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:23:40,673 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:24:40,907 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:25:41,214 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:26:41,415 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:27:41,638 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:28:41,869 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:29:42,173 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:30:42,394 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:31:42,628 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:32:42,920 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:33:43,385 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:34:43,934 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:35:44,409 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:36:44,970 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:37:45,447 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:38:45,719 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:39:46,248 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:40:46,706 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:41:47,257 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:42:47,465 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:43:48,001 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:44:48,567 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:45:48,804 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:46:48,996 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:47:49,220 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:48:49,673 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:49:49,918 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:50:50,174 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:51:50,406 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:52:50,663 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:53:50,909 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:54:51,235 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:55:51,448 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:56:51,705 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:57:51,926 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:58:52,242 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 14:59:52,474 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:00:52,786 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:01:53,006 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:02:53,312 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:03:53,532 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:04:53,871 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:05:54,101 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:06:54,322 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:07:54,558 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:08:54,888 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:09:55,126 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:10:55,460 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:11:55,711 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:12:55,919 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:13:56,128 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:14:56,353 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:16:59,786 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:17:59,986 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:19:00,212 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:20:00,477 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:21:00,720 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:22:00,926 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:23:01,137 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:24:01,381 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:25:01,711 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:26:01,949 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:27:02,188 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:28:02,450 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:29:02,770 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:30:02,991 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:31:03,357 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:32:03,632 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:33:03,847 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:34:04,179 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:35:04,416 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:36:04,678 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:37:04,915 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:38:05,191 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:39:05,440 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:40:05,748 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:41:05,980 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:42:06,212 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:43:06,453 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:44:06,690 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:45:06,924 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:46:07,226 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:47:07,453 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:48:07,801 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:49:08,023 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:50:08,333 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:51:08,590 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:52:08,931 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:53:09,128 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:54:09,365 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:55:09,688 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:56:09,952 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:57:10,174 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:58:10,461 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 15:59:10,700 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:00:10,956 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:01:11,252 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:02:11,478 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:03:11,710 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:04:12,016 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:05:38,347 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:06:38,586 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:07:38,793 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:08:39,021 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:10:18,122 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:11:18,372 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:12:18,604 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:13:18,798 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:14:19,057 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:15:19,320 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:16:19,548 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:17:19,786 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:18:20,078 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:19:20,317 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:20:20,573 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:21:20,858 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:22:21,080 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:23:21,395 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:24:21,649 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:25:21,866 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:26:22,150 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:27:22,346 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:28:22,560 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:29:22,802 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:30:23,062 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:31:23,268 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:32:23,512 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:33:23,706 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:34:23,940 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:35:24,177 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:36:24,431 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:37:24,626 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:38:24,849 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:39:25,075 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:40:25,343 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:41:25,583 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:42:25,832 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:43:26,185 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:44:26,444 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:45:26,685 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:46:26,980 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:47:27,210 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:48:27,582 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:49:27,844 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:50:28,083 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:51:28,343 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:52:28,596 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:53:29,023 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:54:29,247 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:55:29,455 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:56:29,690 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:57:29,913 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:58:30,126 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 16:59:30,435 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:00:30,737 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:01:30,980 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:02:31,225 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:03:31,518 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:04:31,802 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:05:32,128 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:06:32,361 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:07:32,682 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:08:32,966 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:09:33,211 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:10:33,443 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:11:33,754 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:12:34,037 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:13:34,372 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:14:34,610 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:15:34,854 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:16:35,186 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:17:35,412 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:18:35,667 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:19:35,896 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:20:36,250 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:21:36,485 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:22:36,718 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:23:36,910 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:24:37,194 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:25:37,426 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:26:37,710 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:27:37,928 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:28:38,164 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:29:38,501 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:30:38,771 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:31:39,096 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:32:39,325 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:33:39,568 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:34:39,809 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:35:40,015 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:36:40,305 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:37:40,637 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:38:40,882 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:39:41,131 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:40:41,401 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:41:41,716 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:42:41,939 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:43:42,175 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:44:42,436 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:45:42,789 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:46:42,993 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:47:43,229 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:48:43,568 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:49:43,826 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:50:44,064 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:51:44,302 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:52:44,571 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:53:44,897 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:54:45,134 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:55:45,355 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:56:45,612 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:57:45,861 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:58:46,105 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 17:59:46,315 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:00:46,603 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:01:46,891 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:02:47,141 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:03:47,417 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:04:47,650 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:05:47,932 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:06:48,138 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:07:48,357 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:08:48,621 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:09:49,038 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:10:49,305 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:11:49,623 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:12:49,890 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:13:50,113 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:14:50,391 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:15:50,608 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:16:50,895 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:17:51,106 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:18:51,356 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:19:51,595 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:20:51,849 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:21:52,117 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:22:52,352 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:23:52,576 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:24:52,846 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:25:53,094 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:26:53,309 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:27:53,542 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:28:53,823 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:29:54,086 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:30:54,397 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:31:54,638 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:32:54,936 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:33:55,178 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:34:55,440 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:35:55,672 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:36:55,953 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:37:56,216 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:38:56,438 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:39:56,663 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:40:56,930 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:41:57,247 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:42:57,508 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:43:57,834 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:44:58,107 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:45:58,316 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:46:58,559 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:47:58,869 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:48:59,115 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:49:59,348 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:50:59,582 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:51:59,823 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:53:00,069 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:54:00,346 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:55:00,550 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:56:00,755 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:57:01,069 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:58:01,305 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 18:59:01,650 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:00:01,912 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:01:02,235 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:02:02,460 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:03:02,790 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:04:03,016 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:05:03,246 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:06:03,503 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:07:03,736 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:08:04,114 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:09:04,352 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:10:04,569 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:11:04,780 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:12:05,234 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:13:05,461 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:14:05,687 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:15:05,933 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:16:06,228 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:17:06,467 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:18:06,774 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:19:06,986 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:20:07,263 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:21:07,599 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:22:07,841 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:23:08,091 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:24:08,487 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:25:08,829 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:26:09,075 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:27:09,316 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:28:09,669 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:29:09,887 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:30:10,101 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:31:10,400 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:32:10,676 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:33:11,001 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:34:11,211 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:35:11,439 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:36:11,697 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:37:11,978 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:38:12,221 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:39:12,459 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:40:12,756 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:41:12,979 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:42:13,293 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:43:13,549 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:44:13,898 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:45:14,136 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:46:14,441 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:47:14,683 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:48:14,965 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:49:15,184 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:50:15,478 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:51:15,713 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:52:15,995 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:53:16,247 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:54:16,590 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:55:16,836 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:56:17,072 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:57:17,314 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:58:17,556 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 19:59:17,799 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 20:00:18,167 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 20:01:18,496 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 20:02:18,729 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 20:03:18,973 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 20:04:19,241 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-28 20:05:19,532 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 14:42:08,938 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 14:43:09,263 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 14:44:09,525 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 14:45:09,788 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 14:47:18,901 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 14:48:19,142 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 14:49:19,456 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 14:50:19,687 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 14:51:19,927 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 14:52:20,260 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 14:53:20,470 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 14:54:20,706 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 14:55:21,076 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 14:56:21,366 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 14:57:21,616 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 14:58:21,834 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 14:59:22,078 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:00:22,497 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:01:22,792 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:02:23,029 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:03:23,279 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:04:23,579 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:05:23,846 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:06:24,178 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:07:24,405 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:08:24,727 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:09:25,021 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:10:25,335 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:11:25,536 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:12:25,824 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:13:26,095 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:14:26,344 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:15:26,665 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:16:26,929 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:17:27,309 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:18:27,526 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:19:27,848 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:20:28,126 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:21:28,399 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:22:28,774 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:23:28,989 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:24:29,328 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:25:29,542 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[ERROR] 2019-12-30 15:26:25,198 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "erpnext.stock.api.fetch_repeat_order_questions"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 808, in get_module
+    return importlib.import_module(modulename)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 956, in _find_and_load_unlocked
+ImportError: No module named 'erpnext.stock.api'
+[ERROR] 2019-12-30 15:26:25,284 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 808, in get_module
+    return importlib.import_module(modulename)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 956, in _find_and_load_unlocked
+ImportError: No module named 'erpnext.stock.api'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[DEBUG] 2019-12-30 15:26:29,943 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:27:30,149 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:28:30,412 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:29:30,658 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:30:30,953 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:31:31,215 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[ERROR] 2019-12-30 15:31:45,689 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "frappe.realtime.get_user_info"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+TypeError: get_user_info() missing 1 required positional argument: 'sid'
+[ERROR] 2019-12-30 15:31:45,689 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "frappe.realtime.get_user_info"
+}
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "frappe.realtime.get_user_info"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+TypeError: get_user_info() missing 1 required positional argument: 'sid'
+[ERROR] 2019-12-30 15:31:45,689 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "frappe.realtime.get_user_info"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+TypeError: get_user_info() missing 1 required positional argument: 'sid'
+[ERROR] 2019-12-30 15:31:45,689 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "frappe.realtime.get_user_info"
+}
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "frappe.realtime.get_user_info"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+TypeError: get_user_info() missing 1 required positional argument: 'sid'
+[ERROR] 2019-12-30 15:31:45,848 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+TypeError: get_user_info() missing 1 required positional argument: 'sid'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[ERROR] 2019-12-30 15:31:45,849 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+TypeError: get_user_info() missing 1 required positional argument: 'sid'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[ERROR] 2019-12-30 15:32:13,619 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "erpnext.stock.api.fetch_repeat_order_questions"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 808, in get_module
+    return importlib.import_module(modulename)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 956, in _find_and_load_unlocked
+ImportError: No module named 'erpnext.stock.api'
+[ERROR] 2019-12-30 15:32:13,698 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 808, in get_module
+    return importlib.import_module(modulename)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 956, in _find_and_load_unlocked
+ImportError: No module named 'erpnext.stock.api'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[DEBUG] 2019-12-30 15:32:44,813 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[ERROR] 2019-12-30 15:33:39,997 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "raghu_tasks.doc_type.fetch_repeat_order_questions"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 808, in get_module
+    return importlib.import_module(modulename)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 956, in _find_and_load_unlocked
+ImportError: No module named 'raghu_tasks.doc_type'
+[ERROR] 2019-12-30 15:33:40,040 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 808, in get_module
+    return importlib.import_module(modulename)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 956, in _find_and_load_unlocked
+ImportError: No module named 'raghu_tasks.doc_type'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[DEBUG] 2019-12-30 15:33:45,053 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:34:45,245 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[ERROR] 2019-12-30 15:34:45,342 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "raghu_tasks.raghu_tasks.doctype.fetch_repeat_order_questions"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+AttributeError: module 'raghu_tasks.raghu_tasks.doctype' has no attribute 'fetch_repeat_order_questions'
+[ERROR] 2019-12-30 15:34:45,348 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+AttributeError: module 'raghu_tasks.raghu_tasks.doctype' has no attribute 'fetch_repeat_order_questions'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[ERROR] 2019-12-30 15:35:35,812 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "raghu_tasks.doctype.fetch_repeat_order_questions"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 808, in get_module
+    return importlib.import_module(modulename)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 956, in _find_and_load_unlocked
+ImportError: No module named 'raghu_tasks.doctype'
+[ERROR] 2019-12-30 15:35:35,836 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 808, in get_module
+    return importlib.import_module(modulename)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 956, in _find_and_load_unlocked
+ImportError: No module named 'raghu_tasks.doctype'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[DEBUG] 2019-12-30 15:35:45,470 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[ERROR] 2019-12-30 15:36:38,366 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "raghu_tasks.raghu_tasks.raghu_tasks.doctype.fetch_repeat_order_questions"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 808, in get_module
+    return importlib.import_module(modulename)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 944, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 956, in _find_and_load_unlocked
+ImportError: No module named 'raghu_tasks.raghu_tasks.raghu_tasks'
+[ERROR] 2019-12-30 15:36:38,403 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 808, in get_module
+    return importlib.import_module(modulename)
+  File "/home/frappe/test-frappe-bench/env/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 944, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 956, in _find_and_load_unlocked
+ImportError: No module named 'raghu_tasks.raghu_tasks.raghu_tasks'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[DEBUG] 2019-12-30 15:36:45,794 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:37:46,018 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local
+[DEBUG] 2019-12-30 15:38:46,228 | /home/frappe/test-frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: kaynestest.local
+Queued events for site kaynestest.local

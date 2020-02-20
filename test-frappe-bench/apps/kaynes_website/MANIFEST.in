@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include kaynes_website *.css
+recursive-include kaynes_website *.csv
+recursive-include kaynes_website *.html
+recursive-include kaynes_website *.ico
+recursive-include kaynes_website *.js
+recursive-include kaynes_website *.json
+recursive-include kaynes_website *.md
+recursive-include kaynes_website *.png
+recursive-include kaynes_website *.py
+recursive-include kaynes_website *.svg
+recursive-include kaynes_website *.txt
+recursive-exclude kaynes_website *.pyc

@@ -1,0 +1,61 @@
+{
+ "creation": "2019-10-31 09:18:45.250222",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "news_section",
+  "latest_news",
+  "events_section",
+  "latest_events"
+ ],
+ "fields": [
+  {
+   "bold": 1,
+   "fieldname": "news_section",
+   "fieldtype": "Section Break",
+   "label": "News"
+  },
+  {
+   "bold": 1,
+   "fieldname": "latest_news",
+   "fieldtype": "Table",
+   "label": "Latest News",
+   "options": "Latest News"
+  },
+  {
+   "bold": 1,
+   "fieldname": "events_section",
+   "fieldtype": "Section Break",
+   "label": "Events"
+  },
+  {
+   "bold": 1,
+   "fieldname": "latest_events",
+   "fieldtype": "Table",
+   "label": "Latest Events",
+   "options": "Latest Events"
+  }
+ ],
+ "issingle": 1,
+ "modified": "2019-10-31 09:51:21.085664",
+ "modified_by": "Administrator",
+ "module": "Kaynes Website",
+ "name": "Website News",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

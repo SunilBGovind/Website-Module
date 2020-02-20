@@ -1,0 +1,102 @@
+[ERROR] 2019-12-30 16:11:34,123 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "frappe.realtime.get_user_info"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+TypeError: get_user_info() missing 1 required positional argument: 'sid'
+[ERROR] 2019-12-30 16:11:34,123 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "frappe.realtime.get_user_info"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+TypeError: get_user_info() missing 1 required positional argument: 'sid'
+[ERROR] 2019-12-30 16:16:42,064 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "testing.testing.doctype.contract_review.fetch_repeat_order_questions"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+AttributeError: module 'testing.testing.doctype.contract_review' has no attribute 'fetch_repeat_order_questions'
+[ERROR] 2019-12-30 16:16:57,427 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "testing.testing.doctype.contract_review.fetch_repeat_order_questions"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+AttributeError: module 'testing.testing.doctype.contract_review' has no attribute 'fetch_repeat_order_questions'
+[ERROR] 2019-12-30 16:19:37,989 | /home/frappe/test-frappe-bench/apps/frappe/frappe/app.py:
+Site: kaynestest.local
+Form Dict: {
+ "cmd": "testing.testing.doctype.contract_review.fetch_repeat_order_questions"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/app.py", line 60, in application
+    response = frappe.api.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 45, in execute_cmd
+    raise e
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 42, in execute_cmd
+    method = get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/handler.py", line 186, in get_attr
+    method = frappe.get_attr(cmd)
+  File "/home/frappe/test-frappe-bench/apps/frappe/frappe/__init__.py", line 1027, in get_attr
+    return getattr(get_module(modulename), methodname)
+AttributeError: module 'testing.testing.doctype.contract_review' has no attribute 'fetch_repeat_order_questions'

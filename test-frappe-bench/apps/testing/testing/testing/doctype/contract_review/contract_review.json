@@ -1,0 +1,155 @@
+{
+ "autoname": "CR-.#####",
+ "creation": "2019-11-26 14:58:03.100496",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "customer_order_number",
+  "customer",
+  "project",
+  "item",
+  "column_break_4",
+  "customer_order_date",
+  "date",
+  "drawingno_and_revno",
+  "product_application",
+  "repeat_order_or_new_order_section",
+  "repeat_order",
+  "column_break_12",
+  "new_order",
+  "section_break_14",
+  "contract_review_questionnaires",
+  "amended_from"
+ ],
+ "fields": [
+  {
+   "fieldname": "customer_order_number",
+   "fieldtype": "Link",
+   "label": "Customer Order Number",
+   "options": "Sales Order"
+  },
+  {
+   "fieldname": "customer",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Customer",
+   "options": "Customer",
+   "read_only": 1,
+   "reqd": 1
+  },
+  {
+   "fieldname": "project",
+   "fieldtype": "Link",
+   "label": "Project",
+   "options": "Project",
+   "read_only": 1
+  },
+  {
+   "fieldname": "item",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Item",
+   "options": "Item",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_4",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "customer_order_date",
+   "fieldtype": "Date",
+   "label": "Customer Order Date",
+   "read_only": 1
+  },
+  {
+   "fieldname": "date",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "Date",
+   "read_only": 1,
+   "reqd": 1
+  },
+  {
+   "fieldname": "drawingno_and_revno",
+   "fieldtype": "Data",
+   "label": "Drawing No & Rev No.",
+   "reqd": 1
+  },
+  {
+   "fieldname": "product_application",
+   "fieldtype": "Link",
+   "label": "Product Application (Automotive, Rail, Aero, Med, Other)",
+   "options": "Industry Type",
+   "reqd": 1
+  },
+  {
+   "bold": 1,
+   "fieldname": "repeat_order_or_new_order_section",
+   "fieldtype": "Section Break",
+   "label": "Repeat Order or New order"
+  },
+  {
+   "default": "1",
+   "fieldname": "repeat_order",
+   "fieldtype": "Check",
+   "label": "Repeat Order"
+  },
+  {
+   "fieldname": "column_break_12",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "0",
+   "fieldname": "new_order",
+   "fieldtype": "Check",
+   "label": "New Order"
+  },
+  {
+   "fieldname": "section_break_14",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "contract_review_questionnaires",
+   "fieldtype": "Table",
+   "label": "Contract Review Questionnaires",
+   "options": "Contract Review Questionnaires"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Contract Review",
+   "print_hide": 1,
+   "read_only": 1
+  }
+ ],
+ "is_submittable": 1,
+ "modified": "2019-12-30 15:01:37.535197",
+ "modified_by": "Administrator",
+ "module": "testing",
+ "name": "Contract Review",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "cancel": 1,
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "submit": 1,
+   "write": 1
+  }
+ ],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

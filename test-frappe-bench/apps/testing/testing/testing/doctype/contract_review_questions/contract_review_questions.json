@@ -1,0 +1,58 @@
+{
+ "creation": "2019-12-30 15:10:09.303646",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "new_order_questions_section",
+  "new_order_questions",
+  "repeat_order_questions_section",
+  "repeat_order_questions"
+ ],
+ "fields": [
+  {
+   "fieldname": "new_order_questions_section",
+   "fieldtype": "Section Break",
+   "label": "New Order Questions"
+  },
+  {
+   "fieldname": "new_order_questions",
+   "fieldtype": "Table",
+   "label": "New Order Questions",
+   "options": "New Order Questions"
+  },
+  {
+   "fieldname": "repeat_order_questions_section",
+   "fieldtype": "Section Break",
+   "label": "Repeat Order Questions"
+  },
+  {
+   "fieldname": "repeat_order_questions",
+   "fieldtype": "Table",
+   "label": "Repeat Order Questions",
+   "options": "Repeat Order Questions"
+  }
+ ],
+ "issingle": 1,
+ "modified": "2019-12-30 16:16:21.149012",
+ "modified_by": "Administrator",
+ "module": "testing",
+ "name": "Contract Review Questions",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

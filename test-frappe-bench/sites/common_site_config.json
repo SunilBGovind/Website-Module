@@ -1,0 +1,20 @@
+{
+ "auto_update": false, 
+ "background_workers": 1, 
+ "file_watcher_port": 6789, 
+ "frappe_user": "frappe", 
+ "gunicorn_workers": 4, 
+ "maintenance_mode": 0, 
+ "pause_scheduler": 0, 
+ "rebase_on_pull": false, 
+ "redis_cache": "redis://localhost:13002", 
+ "redis_queue": "redis://localhost:11002", 
+ "redis_socketio": "redis://localhost:12002", 
+ "restart_supervisor_on_update": false, 
+ "restart_systemd_on_update": false, 
+ "serve_default_site": true, 
+ "shallow_clone": true, 
+ "socketio_port": 9002, 
+ "update_bench_on_update": true, 
+ "webserver_port": 8002
+}

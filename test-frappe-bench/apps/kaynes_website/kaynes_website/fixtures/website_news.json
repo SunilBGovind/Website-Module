@@ -1,0 +1,57 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Website News",
+  "latest_events": [
+   {
+    "heading": "IREE 2019",
+    "parent": "Website News",
+    "parentfield": "latest_events",
+    "parenttype": "Website News",
+    "url": "latest-events/iree-2019/index.html"
+   },
+   {
+    "heading": "electronica India 2019",
+    "parent": "Website News",
+    "parentfield": "latest_events",
+    "parenttype": "Website News",
+    "url": "latest-events/electronica-india-2019/index.html"
+   },
+   {
+    "heading": "Strategic Electronics Summit (SES) 2019",
+    "parent": "Website News",
+    "parentfield": "latest_events",
+    "parenttype": "Website News",
+    "url": "latest-events/strategic-electronics-summit-ses-2019/index.html"
+   }
+  ],
+  "latest_news": [
+   {
+    "heading": "Kaynes celebrates Founders day on 10th Aug 2019. Various activities were planned by all plants and facilities all over India",
+    "parent": "Website News",
+    "parentfield": "latest_news",
+    "parenttype": "Website News",
+    "url": "latest-news/kaynes-celebrates-founders-day-on-10th-aug-2019/index.html"
+   },
+   {
+    "heading": "Our New Development based on Xilinx FPGA\u2019s",
+    "parent": "Website News",
+    "parentfield": "latest_news",
+    "parenttype": "Website News",
+    "url": "latest-news/our-new-development-based-on-xilinx-fpgas/index.html"
+   },
+   {
+    "heading": "Kaynes Technology listed as Smart Cities Provider in Qualcomm Advantage Network",
+    "parent": "Website News",
+    "parentfield": "latest_news",
+    "parenttype": "Website News",
+    "url": "latest-news/kaynes-technology-added-as-smart-cities-provider-in-qualcomm-advantage-network/index.html"
+   }
+  ],
+  "modified": "2019-11-21 13:20:59.683328",
+  "name": "Website News",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

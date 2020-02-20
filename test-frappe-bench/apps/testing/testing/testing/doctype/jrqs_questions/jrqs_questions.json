@@ -1,0 +1,39 @@
+{
+ "creation": "2019-12-07 10:16:26.493077",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "jrqs_questions_list"
+ ],
+ "fields": [
+  {
+   "fieldname": "jrqs_questions_list",
+   "fieldtype": "Table",
+   "label": "JRQS Questions List",
+   "options": "JRQS Questions List"
+  }
+ ],
+ "issingle": 1,
+ "modified": "2019-12-30 17:15:02.250427",
+ "modified_by": "Administrator",
+ "module": "testing",
+ "name": "JRQS Questions",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}
